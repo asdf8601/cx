@@ -18,7 +18,7 @@ cx install git+https://github.com/mmngreco/takt
 
 ## Post
 
-- TBD
+- https://mmngreco.dev/posts/pipx-with-conda/
 
 ## Using it
 
